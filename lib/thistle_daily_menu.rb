@@ -1,5 +1,3 @@
-require "thistle_daily_menu/version"
-
 module ThistleDailyMenu
 end
 

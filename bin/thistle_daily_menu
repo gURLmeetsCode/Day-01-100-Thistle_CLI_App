@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require "./lib/dev_jobs"
+require "./lib/thistle_daily_menu"
 
 
 ThistleDailyMenu::CLI.new.call
