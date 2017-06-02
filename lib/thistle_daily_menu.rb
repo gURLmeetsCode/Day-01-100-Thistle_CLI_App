@@ -1,5 +1,6 @@
 require "thistle_daily_menu/version"
 
 module ThistleDailyMenu
-  # Your code goes here...
 end
+
+require_relative '../config/environment'
